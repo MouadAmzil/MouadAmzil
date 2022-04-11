@@ -8,13 +8,15 @@
 
  <img src="./Rainbow Gradient Pink and Purple Zoom Virtual Background.png"/>
 
-# Technologies 
-
-(https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-)
-
 # Hey, I'm Mouad Amzil ✌️
 I'm a ~ 21 year old software engineer from the Morocco. I'm interested in full stack web development including large scale frontend applications and performant serverside code
+
+# Technologies 
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![nextjs](https://img.shields.io/badge/nextjs-007ACC?style=for-the-badge&logo=nextjs)![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)![TailwindCss](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
 <!--
 **MouadAmzil/MouadAmzil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
