@@ -1,4 +1,5 @@
-### Mouad Amzil 👋
+### Mouad Amzil  <img src="./waving-hi.gif"/>
+
 
  <img src="./Rainbow Gradient Pink and Purple Zoom Virtual Background.png"/>
 
