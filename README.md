@@ -1,8 +1,12 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mouadamzil1)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouadamzil/)
+
 
  <img src="./Rainbow Gradient Pink and Purple Zoom Virtual Background.png"/>
-
+# Hey, I'm Mouad Amzil ✌️
+I'm a ~ 21 year old software engineer from the Morocco. I'm interested in full stack web development including large scale frontend applications and performant serverside code
 <!--
 **MouadAmzil/MouadAmzil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
