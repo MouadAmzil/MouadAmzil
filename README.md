@@ -1,7 +1,6 @@
 ### Mouad Amzil 👋
 
- <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
-"/>
+ <img src="./Rainbow Gradient Pink and Purple Zoom Virtual Background.png"/>
 
 <!--
 **MouadAmzil/MouadAmzil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
