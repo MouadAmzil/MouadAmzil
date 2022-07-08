@@ -1,4 +1,4 @@
-# Hey there! <img src="https://i.pinimg.com/originals/78/fc/57/78fc5736273683922c0627336b5bb0cb.gif" width="25px" style="max-width:25px !important">
+# Hey there! <img src="https://i.pinimg.com/originals/78/fc/57/78fc5736273683922c0627336b5bb0cb.gif" width="25">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mouadamzil1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouadamzil/)
