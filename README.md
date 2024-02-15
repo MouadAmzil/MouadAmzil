@@ -9,7 +9,7 @@
  <img src="./Rainbow Gradient Pink and Purple Zoom Virtual Background.png"/>
 
 # Hey, I'm Mouad Amzil <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="30">
-I'm a ~ 21 year old software engineer from the Morocco. I'm interested in full stack web development including large scale frontend applications and performant serverside code
+I'm a ~ 22 year old software engineer from the Morocco. I'm interested in full stack web development including large scale frontend applications and performant serverside code
 
 # Technologies 
 
