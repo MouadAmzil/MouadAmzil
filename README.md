@@ -26,6 +26,7 @@ I'm a ~ 22 year old software engineer from the Morocco. I'm interested in full s
 ![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+ <img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" />
 
 
 
