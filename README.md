@@ -5,6 +5,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/MouadAmzil)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/xedqg5j0l1fbz2zpre1ippe25)
 
+![Profile views](https://komarev.com/ghpvc/?username=MouadAmzil&style=flat-square&color=0e75b6)
 
  <img src="./Rainbow Gradient Pink and Purple Zoom Virtual Background.png"/>
 
