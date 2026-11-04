@@ -31,4 +31,4 @@ I'm a ~ 24 year-old software engineer from Morocco. I'm interested in full-stack
 
 # Listen with me 
 
-[![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xedqg5j0l1fbz2zpre1ippe25&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=xedqg5j0l1fbz2zpre1ippe25)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xedqg5j0l1fbz2zpre1ippe25&count=10&width=770&radius=5&unique=1&duration=1&album=1)
